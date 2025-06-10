@@ -25,4 +25,13 @@ Click on create
 
 ![Screenshot_20250610_165318](https://github.com/user-attachments/assets/7d38685b-a4fd-428b-8dc6-969304bb83c2)
 
+Then you will see this screen 
 
+![Screenshot_20250610_165414](https://github.com/user-attachments/assets/ed61ff1b-4444-43cc-a373-7a9e34452ab3)
+
+The Resource group name - we are going to make this unique. Something like 'RG-Azure-Basic-Overview'
+As you can see if auto selected the 'Subscription' and 'Region'. You can edit as you please. 
+
+![Screenshot_20250610_165554](https://github.com/user-attachments/assets/6a3c6bae-44ea-48c7-887f-0c3e334a8f36)
+
+Press 'Next'
