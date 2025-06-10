@@ -16,7 +16,13 @@ In this lab we are going to make sure we understand some basics about Azure.
 
 ---
 
-It the top search bar we are going to type in rescource groups and then click on the 
+It the top search bar we are going to type in rescource groups and then click on the matching result (resource grouops)
+
 ![Screenshot_20250610_165024](https://github.com/user-attachments/assets/f51aa1df-c2da-4fac-9b11-b33836e03773)
 ![Screenshot_20250610_165124](https://github.com/user-attachments/assets/1dd1b3a3-2be3-4aab-a15e-45b6127ccaf3)
+
+Click on create 
+
+![Screenshot_20250610_165318](https://github.com/user-attachments/assets/7d38685b-a4fd-428b-8dc6-969304bb83c2)
+
 
