@@ -33,7 +33,7 @@ As you can see it auto selected the 'Subscription' and 'Region'. You can edit as
 **Press 'Next'. Here we are presented with tags a key value pair. We don't need to fill this out at this moment, but I went ahead and did it.**
 ![Screenshot_20250610_165832](https://github.com/user-attachments/assets/62c5b7f1-9beb-4a88-a2b5-ae8bb5cf20d2)
 
-**From here we are gonna press 'Review & create'. Then bottom button**
+**From here we are gonna press 'Review & create'. Then click on the bottom button**
 ![Screenshot_20250610_170010](https://github.com/user-attachments/assets/f38b2787-c140-416e-a1e1-c04db81e4a00)
 
 **You will be presented with screen. Then press create on the bottom of the page**
@@ -46,6 +46,15 @@ As you can see it auto selected the 'Subscription' and 'Region'. You can edit as
 
 **Nest to we need to add a 'Stogage account' to our resource groups. This is what we are gonna use to upload, eidt and download our file**
 ![Screenshot_20250610_170714](https://github.com/user-attachments/assets/6c4ddde7-3be5-40b4-8a5e-fb36ee8ea893)
+
+**After you clicked in the 'Storage accounts' from the search results. Go ahead and click on the 'create' button**
+![Screenshot_20250610_170904](https://github.com/user-attachments/assets/cdb5e336-4945-44ea-87aa-342992d9d46a)
+
+**This fill in a name for the 'Storage account'. I went with azurebasicov. We are gonna skip the rest of the steps and go straight to 'Review + Create'**
+![Screenshot_20250610_171209](https://github.com/user-attachments/assets/c7a5909c-02e0-4354-b159-11aea6df73fc)
+
+**I didn't grab a screeen shot of the next screen, but it bascally is an overview of the new storage. This can take a while, just be patient**
+
 
 
 
