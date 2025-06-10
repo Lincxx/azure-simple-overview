@@ -55,6 +55,14 @@ As you can see it auto selected the 'Subscription' and 'Region'. You can edit as
 
 **I didn't grab a screeen shot of the next screen, but it bascally is an overview of the new storage. This can take a while, just be patient**
 
+**One it's created. I like to go to the main 'Home' page.**
 
+**From there you should see your 'Resource groups'. Go ahead and click on it**
+![Screenshot_20250610_171629](https://github.com/user-attachments/assets/1e4b5298-33cc-41f4-8b47-e90bbcfd4abd)
+
+**As you can see here, the 'Storage account' has been created and is ready to be used**
+![Screenshot_20250610_171657](https://github.com/user-attachments/assets/2c73b66b-6cf4-416e-ba76-a41938db8b7a)
+
+**We need to create a 'container' for the 'Storage account'. This you can think of it as a folder...basically**
 
 
