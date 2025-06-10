@@ -64,5 +64,28 @@ As you can see it auto selected the 'Subscription' and 'Region'. You can edit as
 ![Screenshot_20250610_171657](https://github.com/user-attachments/assets/2c73b66b-6cf4-416e-ba76-a41938db8b7a)
 
 **We need to create a 'container' for the 'Storage account'. This you can think of it as a folder...basically**
+**Now click on the "Storage account" on the left side you'll see a 'Data Storage' drop down. Click on it and select the 'Containers'**
+![Screenshot_20250610_172158](https://github.com/user-attachments/assets/c9f097d6-589c-4884-8993-a0414f18a427)
+
+**Click on the '+ Cotainer' and enter in a name. I went with test and as you can see the new folder has been created. Click on the new folder**
+![Screenshot_20250610_172319](https://github.com/user-attachments/assets/73f0ec9b-af82-46bc-91da-abcfedd59f24)
+
+**From here we are going to upload our file. So go ahead and click on upload and select your file. Once completed you should see your newly uploaded file**
+![Screenshot_20250610_172512](https://github.com/user-attachments/assets/91b2dfc4-9711-48f7-a5d1-f6179636ca56)
+
+**Next step is to edit the and download the file to see if our changes did indeed take. Right on the file and select 'View/edit'. Type in anything you would like. I went with updated. click save and press download**
+![Screenshot_20250610_172746](https://github.com/user-attachments/assets/b78c554b-2d25-4473-8eb0-9f39657a958c)
+
+**Now clean up. I'm going to press the 'Home' link in the upper left hand corner. Then click on the 'Resource groups' we made**
+![Screenshot_20250610_172940](https://github.com/user-attachments/assets/aced72bb-9c9b-43ff-a084-07a5f4f14fae)
+
+**Now click on Delete resource group. This will delete everything we made. Again this will take some time.**
+![Screenshot_20250610_173052](https://github.com/user-attachments/assets/60365928-9ef0-460b-8254-ca45bf61bb97)
+
+**You will be presented with a confirmation box. Just copy the name of the 'resource group' and entered it into the input field at the bottom and press delete**
+![Screenshot_20250610_173144](https://github.com/user-attachments/assets/34cbe068-c737-4406-85c5-84c990a4085c)
+
+
+
 
 
